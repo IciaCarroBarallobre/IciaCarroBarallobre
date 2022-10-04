@@ -5,7 +5,7 @@
 <br> My name is **Icia** (she/her). I pursued a **Bachelor's degree** in **Computer Science**.
 <br> 📈 Currently, I'm working as a **data scientist**. 
 <br> 💧 But I'm still learning to, in the future, become a **full-stack Elixir Developer**.
-<br> 🌱 I am passionate about contribuing, being part of a kind community, learning new things, reading books and doing Yoga.
+<br> 🌱 I am passionate about contribuing, being part of a kind community, learning new things, drawing digital art, reading books and doing Yoga.
 <br> 💻 OS: Linux & Windows.
 
 <br> For more info, you can visit my [Linked-In Profile](https://www.linkedin.com/in/icia-carro-barallobre/)
