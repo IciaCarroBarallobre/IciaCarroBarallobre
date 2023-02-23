@@ -1,7 +1,7 @@
 ### Hello there! 🌈
 
 <img 
-     align="left"  
+     align="right"  
      alt="Photo" 
      height="210"
      src="https://user-images.githubusercontent.com/47258107/220904783-18e32905-5cc6-471e-a751-761c2faabc08.jpg" 
