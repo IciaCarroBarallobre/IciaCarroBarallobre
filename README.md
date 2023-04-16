@@ -3,20 +3,21 @@
 <img 
      align="right"  
      alt="Photo" 
-     height="210"
-     src="https://user-images.githubusercontent.com/47258107/220904783-18e32905-5cc6-471e-a751-761c2faabc08.jpg" 
+     height="300"
+     src="https://user-images.githubusercontent.com/47258107/232305579-7f3a8dff-c23d-46ae-8546-5c45c62093fd.jpg" 
 />
+
 
 My name is **Icia**. I pursued a **Bachelor's degree** in **Computer Science**.
 <br/>
 
 💧 Currently, I am focused on developing my skills to become a **Full-stack Elixir Developer**.
  
-🌱 I am passionate about contributing to open source projects, applying an a11y & i18n perspective, and being a part of a supportive community.
+🌱 I am passionate about contributing to **open-source projects**, **applying an a11y & i18n perspective**, and **being a part of a supportive community**.
 
-🐛 I find joy in broadening my knowledge, creating handcrafted items such as candles or embroidery, immersing myself in reading books, and practicing Yoga.
+🐛 I find joy in crafting artisanal items like candles and embroidery, immersing myself in reading books, broadening my knowledge, playing boardgames, wandering amidst nature during walks, and spending time in the company of animals.
  
-💻 OS: Linux & Windows.
+💻 **OS**: Linux & Windows.
 
 <br/>
 
