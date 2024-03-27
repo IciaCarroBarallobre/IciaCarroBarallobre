@@ -7,11 +7,9 @@
      src="https://user-images.githubusercontent.com/47258107/232305579-7f3a8dff-c23d-46ae-8546-5c45c62093fd.jpg" 
 />
 
-💧 I love BEAM environment. Right now, I'm all about leveling up my skills to become a **Backend Erlang Developer**.
+💻 BEAM dev, currently leveling up my skills to become a **Backend Erlang Developer**.
  
 🌱 I am passionate about contributing to **open-source projects**, **writing** newbie-friendly **documentation**, applying an **a11y** & **i18n** perspective, and being a part of a **supportive community**.
-
-🐛  When I've got time to spare, I'm all about handcrafting cool things like candles. I'm a bookworm, a board game enthusiast, a nature wanderer, and spending time in the company of animals.
  
 -----
 
