@@ -1,4 +1,4 @@
-### Hey there, I'm Icia! ✨
+### Hello there ✨
 
 <img 
      align="right"  
@@ -7,10 +7,12 @@
      src="https://user-images.githubusercontent.com/47258107/232305579-7f3a8dff-c23d-46ae-8546-5c45c62093fd.jpg" 
 />
 
-💻 BEAM dev, currently leveling up my skills to become a **Backend Erlang Developer**.
- 
-🌱 I am passionate about contributing to **open-source projects**, **writing** newbie-friendly **documentation**, applying an **a11y** & **i18n** perspective, and being a part of a **supportive community**.
- 
+-  💻 Erlang/Elixir developer & psychology student
+- 🌱🐌 Continuously learning  
+- 🤝 Trying to contribute to open-source projects
+- 📝 Trying to craft newbie-friendly documentation
+- 🥺 Grateful to be part of a supportive community
+
 -----
 
 ### Me in the web
