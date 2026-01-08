@@ -13,7 +13,7 @@
 
 💡 Every now and then I bring a “what if…?” idea and give a talk to force myself into a deadline, you’ll probably find me online when that happens.
 
-🌿 Also: I’m human. I need time away from here. Please don’t look for a unicorn here 🦄
+🌿 Also: I’m human. I need time away from this stressful but exciting cloudy world. Please don’t look for a unicorn here 🦄
 
 -----
 
