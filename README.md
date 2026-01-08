@@ -7,13 +7,13 @@
      src="https://user-images.githubusercontent.com/47258107/232305579-7f3a8dff-c23d-46ae-8546-5c45c62093fd.jpg" 
 />
 
-💻 Erlang/Elixir dev + psychology student...
+💻 Erlang/Elixir dev + 👤 Psychology student (I refuse to choose 😌)
 
-... who loves contributing to open source and writing documentation that doesn’t scare beginners like me.
+⭐🧩 I love contributing to open source and writing beginner-friendly docs (so they don’t scare people like me). 
 
-Every now and then I bring a “what if…?” idea and give a talk just to force myself into a deadline. So you can find me online if you are insterested on it.
+💡 Every now and then I bring a “what if…?” idea and give a talk to force myself into a deadline, you’ll probably find me online when that happens.
 
-Also: I’m human so I require time away from the PC. Please don’t look for a unicorn here 🦄
+🌿 Also: I’m human. I need time away from here. Please don’t look for a unicorn here 🦄
 
 -----
 
