@@ -25,13 +25,6 @@ Please don't look for a unicorn here, I'm human. 🦄✨
 
 </p>
 
-<h3 align="left">Languages</h3>
-<p align="left"> 
-     <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/>
-      <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/>
-       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
 <h3 align="left">📊 GitHub</h3>
 
 <p align="left">
